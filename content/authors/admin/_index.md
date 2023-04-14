@@ -14,7 +14,7 @@ status:
 
 # Organizations/Affiliations
 organizations:
-  - name: Barcelona School of Economics
+  - name: Incoming MSc studend in Economics at Barcelona School of Economics
     url: 'https://bse.eu/study/masters-programs/economics'
 
 # Short bio (displayed in user profile at end of posts)

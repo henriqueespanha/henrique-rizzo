@@ -51,9 +51,6 @@ social:
   - icon: instagram
     icon_pack: fab
     link: https://instagram.com/henriqueespanhar
-  - icon: linkedin
-    icon_pack: fab
-    link: https://https://www.linkedin.com/in/henriqueespanha/
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab

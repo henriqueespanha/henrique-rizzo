@@ -15,7 +15,7 @@ status:
 # Organizations/Affiliations
 organizations:
   - name: Barcelona School of Economics
-    url: ''
+    url: 'https://bse.eu/study/masters-programs/economics'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed applied microeconomics and political economy.

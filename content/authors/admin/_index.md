@@ -44,13 +44,16 @@ bio: My research interests include distributed applied microeconomics and politi
 social:
   - icon: envelope
     icon_pack: fas
-    link: henrique.rizzo.08@gmail.com
+    link: mailto?henrique.rizzo.08@gmail.com
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/henriqueespanha
   - icon: instagram
     icon_pack: fab
     link: https://instagram.com/henriqueespanhar
+  - icon: linkedin
+    icon_pack: fab  
+    linko: https://linkedin.com/in/henriqueespanha
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab

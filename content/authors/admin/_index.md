@@ -1,24 +1,24 @@
 ---
 # Display name
-title: Alice Bighetti (吳恩達)
+title: Henrique Espanha Rizzo
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: 数据科学家
+role: BSc Economics - UFMG
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Organizations/Affiliations
 organizations:
-  - name: 腾讯
+  - name: Barcelona School of Economics
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include distributed applied microeconomics and political economy.
 
 #interests:
 #- Artificial Intelligence

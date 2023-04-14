@@ -1,6 +1,6 @@
 ---
 # Use the Intro widget of the Blog template
-widget: about.3x4HenriqueEspanha
+widget: admin.3x4HenriqueEspanha
 
 # This file represents a page section.
 headless: true

@@ -69,4 +69,3 @@ social:
 #email: ""
 ---
 
-Henrique Espanha Rizzo é estudante de economia.

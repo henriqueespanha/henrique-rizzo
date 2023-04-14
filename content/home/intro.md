@@ -18,6 +18,6 @@ author: admin
 #  css_class: fullscreen
 ---
 
-🐈 Hey! I'm **Alice**, a data scientist at Google.
+I am an incoming MSc student in Economics at the Barcelona School of Economics.
 
-Check out my [CV](/about/) and blog posts below 🌈
+You can check out my CV here, and see my research here.
